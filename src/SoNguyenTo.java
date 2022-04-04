@@ -7,8 +7,8 @@ public class SoNguyenTo {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Nhập vào 1 số");
         a = scanner.nextInt();
-        if (a == 1 || a == 2) {
-            s = "SNT";
+        if (a<2) {
+            s = "KPSNT";
         }
         else {
             for (int i=2; i<a; i++) {
