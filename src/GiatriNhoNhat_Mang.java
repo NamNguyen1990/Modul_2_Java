@@ -30,6 +30,6 @@ public class GiatriNhoNhat_Mang {
         }
 
         min = GTNN(mang);
-        System.out.println("Giá trị nhỏ nhất trong mảng là" + min);
+        System.out.println("Giá trị nhỏ nhất trong mảng là:" + min);
     }
 }
