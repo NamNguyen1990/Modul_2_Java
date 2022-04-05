@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class ChuyenSo_Chu {
     public static void main(String[] args) {
         String[] mang = {"Không", "Một", "Hai", "Ba",
-                "Bon", "Nam", "Sau", "Bay", "Tam", "Chin"};
+                "Bốn", "Năm", "Sáu", "Bảy", "Tám", "Chín"};
         Scanner scanner = new Scanner(System.in);
         System.out.println("Mời nhập số");
         int so = scanner.nextInt();
