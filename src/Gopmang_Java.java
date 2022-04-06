@@ -44,7 +44,7 @@ public class Gopmang_Java {
              c[mang1.length+i] = mang2[i];
          }
          for (int i=0; i< c.length; i++) {
-             System.out.println("\t"+c[i]);
+             System.out.println("\n"+c[i]);
          }
     }
 }
