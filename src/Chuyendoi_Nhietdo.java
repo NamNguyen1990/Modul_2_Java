@@ -3,12 +3,12 @@ import java.util.Scanner;
 public class Chuyendoi_Nhietdo {
     public static double C_F(double C) {
         double F;
-        F = (9/5)*C +32;
+        F = (9.0/5)*C +32;
         return F;
     }
     public static double F_C(double F) {
         double C;
-        C = (5/9)*(F-32);
+        C = ((5.0/9)*(F-32));
         return C;
     }
     public static void main(String[] args) {
@@ -33,7 +33,7 @@ public class Chuyendoi_Nhietdo {
             System.out.println("Mời nhập độ F");
             F = scanner.nextDouble();
             double FF = F_C(F);
-            System.out.println("Nhiệt độ từ C sang F là:" + FF);
+            System.out.println("Nhiệt độ từ F sang C là:" + FF);
         }
         else if (chon == 0) {
             System.exit(0);
