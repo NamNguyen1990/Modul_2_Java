@@ -55,4 +55,13 @@ public class PTBacHai {
         double no2 = (-b - Math.sqrt(delta)/(2*a));
         return no2;
     }
+
+    @Override
+    public String toString() {
+        return "PTBacHai{" +
+                "a=" + a +
+                ", b=" + b +
+                ", c=" + c +
+                '}';
+    }
 }

@@ -17,6 +17,7 @@ public class Main_PTBacHai {
         c = scanner.nextDouble();
 
         PTBacHai ptBacHai = new PTBacHai(a,b,c);
+        System.out.println(ptBacHai);
 
         if (a==0) {
             if (b==0) {
