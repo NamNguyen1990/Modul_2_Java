@@ -36,4 +36,13 @@ public class HCN {
     public static int getChuVi(int Dai, int Rong) {
         return (Dai+Rong)*2;
     }
+
+    @Override
+    public String toString() {
+        return "Đây là ví dụ về toString" +
+                "HCN{" +
+                "Dai=" + Dai +
+                ", Rong=" + Rong +
+                '}';
+    }
 }
