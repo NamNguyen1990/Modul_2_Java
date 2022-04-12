@@ -28,6 +28,10 @@ public class MainDoiTuongHoc {
         System.out.println(square2);
 
 
+        Triangle triangle1 = new Triangle();
+        System.out.println(triangle1);
+        Triangle triangle2 = new Triangle("Blue",true,2,4,4);
+        System.out.println(triangle2);
 
     }
 
