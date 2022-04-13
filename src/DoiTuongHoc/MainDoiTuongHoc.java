@@ -20,12 +20,16 @@ public class MainDoiTuongHoc {
         Rectangle rectangle2 = new Rectangle(2,8);
         System.out.println(rectangle2);
         Rectangle rectangle3 = new Rectangle(10,20,"Blue",true);
+        rectangle3.resize(50);
         System.out.println(rectangle3);
 
         Square square1 = new Square();
         System.out.println(square1);
         Square square2 = new Square(4,"While",false);
         System.out.println(square2);
+        Square square3 = new Square(4);
+        square3.resize(50);
+        System.out.println(square3);
 
 
         Triangle triangle1 = new Triangle();

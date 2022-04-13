@@ -56,4 +56,9 @@ public class Rectangle extends Shape {
                 + super.toString();
     }
 
+    @Override
+    public void resize(double percent) {
+        this.width = (this.width*(percent/5));
+        this.length = (this.length*(percent/5));;
+    }
 }
