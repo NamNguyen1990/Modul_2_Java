@@ -31,6 +31,10 @@ public class MainDoiTuongHoc {
         square3.resize(50);
         System.out.println(square3);
 
+        Square2 square21 = new Square2(4);
+        System.out.println(square3.getColor());
+
+
 
         Triangle triangle1 = new Triangle();
         System.out.println(triangle1);

@@ -1,6 +1,6 @@
 package DoiTuongHoc;
 
-public class Square2 extends Shape {
+public class Square2 extends Shape implements Colorable {
     private double side;
 
 
@@ -34,5 +34,10 @@ public class Square2 extends Shape {
     @Override
     public void resize(double percent) {
         this.side = (this.side*(percent/100));
+    }
+
+    @Override
+    public void howToColor() {
+        this.getColor();
     }
 }
