@@ -11,7 +11,7 @@ public class Cylinder extends Circle {
     }
 
     public Cylinder(double radius, String color, double height) {
-        super(radius, color);
+        super(radius);
         this.height = height;
     }
 

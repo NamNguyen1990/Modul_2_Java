@@ -2,7 +2,7 @@ package KeThuaHinhTron;
 
 public class MainCircle {
     public static void main(String[] args) {
-        Circle circle1 = new Circle(5,"Red");
+        Circle circle1 = new Circle(5);
         System.out.println(circle1);
         System.out.println("Chu vi hình tròn là:" + circle1.getChuvi());
         System.out.println("Diện tích hình tròn là:" + circle1.getDientich());
