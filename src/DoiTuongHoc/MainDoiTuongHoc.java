@@ -32,7 +32,10 @@ public class MainDoiTuongHoc {
         System.out.println(square3);
 
         Square2 square21 = new Square2(4);
-        System.out.println(square3.getColor());
+        square21.howToColor();
+
+
+
 
 
 

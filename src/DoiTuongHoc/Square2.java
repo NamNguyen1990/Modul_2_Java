@@ -38,6 +38,6 @@ public class Square2 extends Shape implements Colorable {
 
     @Override
     public void howToColor() {
-        this.getColor();
+        System.out.println("Color all four sides..");
     }
 }
