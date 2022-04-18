@@ -7,5 +7,4 @@ public interface QuanLy<T> {
     int timKiem(String ten);
     void hienThi();
     void xapXep();
-
 }
