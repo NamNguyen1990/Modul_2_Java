@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="858a2a0d-01f0-4943-8fc5-4cb71beb8636" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DaoNguocStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThapPhanToNhiPhan.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.ReverseDigits">
+  <component name="RunManager" selected="Application.ThapPhanToNhiPhan">
     <configuration name="DaoNguocStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DaoNguocStack" />
       <module name="Modul2" />
@@ -88,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="abc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abc" />
+    <configuration name="ThapPhanToNhiPhan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThapPhanToNhiPhan" />
       <module name="Modul2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThapPhanToNhiPhan" />
         <item itemvalue="Application.ReverseDigits" />
         <item itemvalue="Application.DaoNguocStack" />
         <item itemvalue="Application.MainHGD" />
         <item itemvalue="Application.MainQLKP" />
-        <item itemvalue="Application.abc" />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +118,7 @@
       <workItem from="1649122668589" duration="56000" />
       <workItem from="1650162786980" duration="136000" />
       <workItem from="1650162956001" duration="9065000" />
-      <workItem from="1650245509716" duration="33751000" />
+      <workItem from="1650245509716" duration="34702000" />
     </task>
     <servers />
   </component>
