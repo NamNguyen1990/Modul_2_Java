@@ -11,7 +11,7 @@ class KiemTraChuoiDoiXung {
             queue.add(inputString.charAt(i));
         }
         String reverseString = "";
-        while (!queue.isEmpty()) {
+        while (queue.isEmpty() == false) {
             reverseString = reverseString+queue.remove();
         }
         if (inputString.equals(reverseString))
