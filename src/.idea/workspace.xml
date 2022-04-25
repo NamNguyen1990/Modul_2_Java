@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="858a2a0d-01f0-4943-8fc5-4cb71beb8636" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ArrayExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearEquationResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculationExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +47,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.ArrayExample">
+  <component name="RunManager" selected="Application.CalculationExample">
     <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayExample" />
       <module name="Modul2" />
@@ -56,8 +55,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KiemTraChuoiDoiXung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KiemTraChuoiDoiXung" />
+    <configuration name="CalculationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculationExample" />
       <module name="Modul2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculationExample" />
         <item itemvalue="Application.ArrayExample" />
         <item itemvalue="Application.LinearEquationResolver" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.TestMap" />
-        <item itemvalue="Application.KiemTraChuoiDoiXung" />
       </list>
     </recent_temporary>
   </component>
@@ -114,7 +113,7 @@
       <workItem from="1649122668589" duration="56000" />
       <workItem from="1650162786980" duration="136000" />
       <workItem from="1650162956001" duration="9065000" />
-      <workItem from="1650245509716" duration="52570000" />
+      <workItem from="1650245509716" duration="54524000" />
     </task>
     <servers />
   </component>
