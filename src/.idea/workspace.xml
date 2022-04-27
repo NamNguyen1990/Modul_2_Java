@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="858a2a0d-01f0-4943-8fc5-4cb71beb8636" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TryCatchTamGiac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CopyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyDanhBaDienthoai/Danhba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyDanhBaDienthoai/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyDanhBaDienthoai/Nguoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyDanhBaDienthoai/QLDanhBa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyDanhBaDienthoai/ghiFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculationExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modul2/CalculationExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modul2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modul2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +47,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -49,7 +55,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.TryCatchTamGiac">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayExample" />
       <module name="Modul2" />
@@ -71,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashMapHashSet.Main" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuanLyDanhBaDienthoai.Main" />
       <module name="Modul2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HashMapHashSet.*" />
+          <option name="PATTERN" value="QuanLyDanhBaDienthoai.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.TryCatchTamGiac" />
         <item itemvalue="Application.ArrayExample" />
         <item itemvalue="Application.CalculationExample" />
         <item itemvalue="Application.LinearEquationResolver" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -115,7 +121,7 @@
       <workItem from="1649122668589" duration="56000" />
       <workItem from="1650162786980" duration="136000" />
       <workItem from="1650162956001" duration="9065000" />
-      <workItem from="1650245509716" duration="64846000" />
+      <workItem from="1650245509716" duration="92620000" />
     </task>
     <servers />
   </component>

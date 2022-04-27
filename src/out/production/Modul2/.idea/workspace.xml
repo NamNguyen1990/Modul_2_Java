@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="858a2a0d-01f0-4943-8fc5-4cb71beb8636" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CopyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyDanhBaDienthoai/Danhba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyDanhBaDienthoai/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyDanhBaDienthoai/Nguoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuanLyDanhBaDienthoai/QLDanhBa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -10,8 +14,23 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -27,17 +46,39 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.MainQuanLy">
-    <configuration name="MainQuanLy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QuanLy.MainQuanLy" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayExample" />
+      <module name="Modul2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculationExample" />
+      <module name="Modul2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearEquationResolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinearEquationResolver" />
+      <module name="Modul2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuanLyDanhBaDienthoai.Main" />
       <module name="Modul2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="QuanLy.*" />
+          <option name="PATTERN" value="QuanLyDanhBaDienthoai.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -45,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TK_Menu_UngDung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TK_Menu_UngDung" />
+    <configuration name="TryCatchTamGiac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TryCatchTamGiac" />
       <module name="Modul2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -54,8 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainQuanLy" />
-        <item itemvalue="Application.TK_Menu_UngDung" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.TryCatchTamGiac" />
+        <item itemvalue="Application.ArrayExample" />
+        <item itemvalue="Application.CalculationExample" />
+        <item itemvalue="Application.LinearEquationResolver" />
       </list>
     </recent_temporary>
   </component>
@@ -73,11 +117,22 @@
       <workItem from="1649122668589" duration="56000" />
       <workItem from="1650162786980" duration="136000" />
       <workItem from="1650162956001" duration="9065000" />
-      <workItem from="1650245509716" duration="4366000" />
+      <workItem from="1650245509716" duration="71977000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
