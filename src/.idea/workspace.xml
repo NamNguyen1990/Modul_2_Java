@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="858a2a0d-01f0-4943-8fc5-4cb71beb8636" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CopyFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuanLyDanhBaDienthoai/Danhba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuanLyDanhBaDienthoai/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuanLyDanhBaDienthoai/Nguoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuanLyDanhBaDienthoai/QLDanhBa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuanLyDanhBaDienthoai/ghiFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modul2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modul2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanLyDanhBaDienthoai/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/QuanLyDanhBaDienthoai/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanLyDanhBaDienthoai/QLDanhBa.java" beforeDir="false" afterPath="$PROJECT_DIR$/QuanLyDanhBaDienthoai/QLDanhBa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +115,8 @@
       <workItem from="1649122668589" duration="56000" />
       <workItem from="1650162786980" duration="136000" />
       <workItem from="1650162956001" duration="9065000" />
-      <workItem from="1650245509716" duration="92620000" />
+      <workItem from="1650245509716" duration="93265000" />
+      <workItem from="1651110687844" duration="2273000" />
     </task>
     <servers />
   </component>

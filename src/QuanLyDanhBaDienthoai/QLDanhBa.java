@@ -37,6 +37,20 @@ public class QLDanhBa {
     }
 
 
+//    public void timKiemsdt(String sdt) {
+//        boolean check = false;
+//        for (int i = 0; i < danhbaList.size(); i++) {
+//            if (String.valueOf(danhbaList.get(i).getSdt()).contains(sdt)) {
+//                System.out.println(danhbaList.get(i));
+//                check = true;
+//            }
+//        }
+//        if (check == false) {
+//            System.out.println("Không có số điện thoại nào như trên");
+//        }
+//    }
+
+
     public int timKiemten (String ten) {
         for (int i = 0; i < danhbaList.size(); i++) {
             if (danhbaList.get(i).getHoTen().equals(ten)) {
