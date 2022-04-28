@@ -83,7 +83,6 @@ public class Main {
                 System.out.println("Nhập số điện thoại cần tìm");
                 int sdtt = sc.nextInt();
                 qlDanhBa.timKiemsdt(sdtt);
-
 //                String sdtt = nhapChu.nextLine();
 //                qlDanhBa.timKiemsdt(sdtt);
             }
